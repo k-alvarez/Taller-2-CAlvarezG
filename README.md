@@ -4,6 +4,6 @@ Este proyecto es de typescript.
 
 Para ejecutarlo, siga las siguientes instrucciones:
 
-1. realice el git clone del proyecto
-2. nom install
+1. Realice el git clone del proyecto.
+2. Realice npm install.
 3. Ejecute el comando tsc para compilar los archivos tsc y crear la carpeta dist/
